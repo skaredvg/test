@@ -1,2 +1,4 @@
 machine
 машина
+motocycle
+мотоцикл
